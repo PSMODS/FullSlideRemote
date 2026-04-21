@@ -1,0 +1,15 @@
+{
+  "name": "FullSlide Remote",
+  "short_name": "FullSlide",
+  "start_url": "/FullSlideRemote/",
+  "display": "standalone",
+  "background_color": "#F4F8FB",
+  "theme_color": "#1197A7",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
