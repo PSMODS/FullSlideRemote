@@ -21,6 +21,7 @@ Links públicos principais:
 - Home: `https://psmods.github.io/FullSlideRemote/`
 - Política de Privacidade: `https://psmods.github.io/FullSlideRemote/privacy-policy.html`
 - Suporte: `https://psmods.github.io/FullSlideRemote/support.html`
+- Download do Windows: `https://psmods.github.io/FullSlideRemote/downloads/FullSlideRemote.exe.zip`
 
 ## Play Store
 
